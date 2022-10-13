@@ -21,7 +21,7 @@ $ python DRLTomo.py
 
 ### Files
 - agent.py: execution of PPO algorithm
-- env.py: build an environment for deep reinforcement learning
+- env.py: build the environment for deep reinforcement learning
 - memory.py: build buffers for training data
 - model.py: the neural network model used by the PPO algorithm
 - train.py: train and test the model
